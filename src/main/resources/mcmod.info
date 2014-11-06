@@ -1,0 +1,18 @@
+[
+{
+  "modid": "oc.or1k",
+  "name": "OC-OR1K",
+  "description": "OpenRisc 1000 Archetecture Implementation for OC",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Pwootage"],
+  "credits": "Forge/FML, OpenComputers, OpenCores",
+  "logoFile": "",
+  "screenshots": [],
+  "requiredMods": ["Forge", "OpenComputers"],
+  "dependencies": ["OpenComputers"],
+  "useDependencyInformation": "true"
+}
+]
